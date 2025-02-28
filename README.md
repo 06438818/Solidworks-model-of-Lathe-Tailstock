@@ -1,1 +1,1 @@
-# Solidworks-model-of-Lathe-Tailstock
+# Solidworks Model of Lathe Tailstock
